@@ -1,2 +1,4 @@
 # Real-time-Pressure-Altitude-Measurement-using-BMP280
-Real-time Pressure &amp; Altitude Measurement using BMP280
+This project aims to provide precise real-time pressure and altitude measurements using the BMP280 sensor and then present this valuable data on an OLED display. The BMP280 sensor is highly accurate and is capable of capturing atmospheric pressure and converting it into altitude information. With the OLED display, users can conveniently monitor these measurements in a clear and easy-to-read format. Whether you're an outdoor enthusiast, a weather enthusiast, or simply curious about your current altitude, the project offers a user-friendly solution for obtaining and visualizing this important environmental data.
+
+![Output](https://github.com/pratz222/Real-time-Pressure-Altitude-Measurement-using-BMP280/assets/53640877/375c6902-9b8b-40c5-a1b4-18914668cf78)
